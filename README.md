@@ -100,18 +100,6 @@ Creates column-normalized heatmaps from CSV results.
    - Counting/Radix Sort: 6–16× speedups on few-unique data
    - Trade-off: 24,100× overhead at small scales due to auxiliary space
 
-## Citation
-
-If you use this work, please cite:
-
-```bibtex
-@article{sorting_empirical_2025,
-  title={Comparative Analysis of Sorting Algorithms: An Empirical Study},
-  author={[Your Name]},
-  year={2025},
-  note={Reproduction and extension of Ala'anzy et al. (2024)}
-}
-```
 
 ## References
 
