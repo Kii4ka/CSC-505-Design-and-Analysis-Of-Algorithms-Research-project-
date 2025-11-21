@@ -1,0 +1,77 @@
+Algorithm,CPU Time (s),Dataset
+Insertion Sort,0.000107125,100_few_unique.txt
+Selection Sort,0.00011674999999999999,100_few_unique.txt
+Bubble Sort,0.000244333,100_few_unique.txt
+Merge Sort,0.00010081249999999999,100_few_unique.txt
+Quick Sort,4.13955e-05,100_few_unique.txt
+Heap Sort,8.5292e-05,100_few_unique.txt
+Shell Sort,3.8396e-05,100_few_unique.txt
+Counting Sort,1.3209e-05,100_few_unique.txt
+Radix Sort,3.08335e-05,100_few_unique.txt
+Bucket Sort,1.84585e-05,100_few_unique.txt
+Cocktail-Shaker Sort,0.000216,100_few_unique.txt
+Gnome Sort,0.00033591700000000003,100_few_unique.txt
+Cycle Sort,0.0002523545,100_few_unique.txt
+TimSort (Python built-in),2.4585000000000003e-06,100_few_unique.txt
+Tree Sort,9.1417e-05,100_few_unique.txt
+Pancake Sort,0.0001164585,100_few_unique.txt
+Flash Sort,2.625e-05,100_few_unique.txt
+Tournament Sort,1.9958e-05,100_few_unique.txt
+Strand Sort,8.3729e-05,100_few_unique.txt
+Insertion Sort,0.0117644585,1000_few_unique.txt
+Selection Sort,0.0122550625,1000_few_unique.txt
+Bubble Sort,0.026671938,1000_few_unique.txt
+Merge Sort,0.0014464579999999999,1000_few_unique.txt
+Quick Sort,0.001435479,1000_few_unique.txt
+Heap Sort,0.001494958,1000_few_unique.txt
+Shell Sort,0.0006807705,1000_few_unique.txt
+Counting Sort,0.00012387500000000002,1000_few_unique.txt
+Radix Sort,0.000335875,1000_few_unique.txt
+Bucket Sort,0.0002102085,1000_few_unique.txt
+Cocktail-Shaker Sort,0.0239927085,1000_few_unique.txt
+Gnome Sort,0.0344021045,1000_few_unique.txt
+Cycle Sort,0.0304961665,1000_few_unique.txt
+TimSort (Python built-in),2.46875e-05,1000_few_unique.txt
+Tree Sort,0.0027372704999999997,1000_few_unique.txt
+Pancake Sort,0.006667708,1000_few_unique.txt
+Flash Sort,0.0002801875,1000_few_unique.txt
+Tournament Sort,0.0002734375,1000_few_unique.txt
+Strand Sort,0.005466709,1000_few_unique.txt
+Insertion Sort,1.2355954169999999,10000_few_unique.txt
+Selection Sort,1.1972923954999999,10000_few_unique.txt
+Bubble Sort,2.7582915415,10000_few_unique.txt
+Merge Sort,0.018026771,10000_few_unique.txt
+Quick Sort,0.09013602100000001,10000_few_unique.txt
+Heap Sort,0.021802833,10000_few_unique.txt
+Shell Sort,0.010409313,10000_few_unique.txt
+Counting Sort,0.001273229,10000_few_unique.txt
+Radix Sort,0.0034398750000000002,10000_few_unique.txt
+Bucket Sort,0.002244625,10000_few_unique.txt
+Cocktail-Shaker Sort,2.3988779795,10000_few_unique.txt
+Gnome Sort,3.5582097084999997,10000_few_unique.txt
+Cycle Sort,3.1210544375,10000_few_unique.txt
+TimSort (Python built-in),0.0003202505,10000_few_unique.txt
+Tree Sort,0.19580341699999998,10000_few_unique.txt
+Pancake Sort,0.6889180205000001,10000_few_unique.txt
+Flash Sort,0.003306479,10000_few_unique.txt
+Tournament Sort,0.0037415625,10000_few_unique.txt
+Strand Sort,0.803593687,10000_few_unique.txt
+Pancake Sort,73.5373352915,100000_few_unique.txt
+Flash Sort,0.031040687499999997,100000_few_unique.txt
+Tournament Sort,0.0459504795,100000_few_unique.txt
+Strand Sort,909.5483893749999,100000_few_unique.txt
+Insertion Sort,117.9882197295,100000_few_unique.txt
+Selection Sort,149.5647787295,100000_few_unique.txt
+Bubble Sort,280.6676930625,100000_few_unique.txt
+Merge Sort,0.2127194165,100000_few_unique.txt
+Quick Sort,maximum recursion depth exceeded in comparison,100000_few_unique.txt
+Heap Sort,0.28720156249999995,100000_few_unique.txt
+Shell Sort,0.1205250205,100000_few_unique.txt
+Counting Sort,0.013035958,100000_few_unique.txt
+Radix Sort,0.034213375000000004,100000_few_unique.txt
+Bucket Sort,0.024248646,100000_few_unique.txt
+Cocktail-Shaker Sort,243.0929864375,100000_few_unique.txt
+Gnome Sort,354.168910437,100000_few_unique.txt
+Cycle Sort,315.111047292,100000_few_unique.txt
+TimSort (Python built-in),0.004196854,100000_few_unique.txt
+Tree Sort, maximum recursion depth exceeded,100000_few_unique.txt
